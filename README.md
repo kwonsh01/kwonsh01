@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 📝 Studying at **POSTECH**<br>
   
-🌠 **Work with**<br><br> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/verilog-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+🌠 **Work with**<br><br> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Verilog-A8B9CC?style=flat-square&logo=Verilog&logoColor=white"/>
  <br><br> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonsh01)
