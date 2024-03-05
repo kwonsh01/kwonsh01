@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonsh01&layout=compact).
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdonghunholic&count_bg=%23DAC2FD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwonsh01&count_bg=%23DAC2FD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 
 </div>
