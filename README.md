@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:cee5d5,100:567ace&height=200&section=header&text=donghunholic&fontSize=70&animation=twinkling&fontColor=ffffff&fontAlign=70&fontAlignY=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:cee5d5,100:567ace&height=200&section=header&text=kwonsh01&fontSize=70&animation=twinkling&fontColor=ffffff&fontAlign=70&fontAlignY=25)
 
 <div align=center>
 
