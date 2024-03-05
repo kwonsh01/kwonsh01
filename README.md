@@ -25,7 +25,9 @@ Here are some ideas to get you started:
  <br><br> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonsh01)
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact).
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdonghunholic&count_bg=%23DAC2FD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
 
 </div>
